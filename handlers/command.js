@@ -4,7 +4,7 @@ module.exports = (client) => {
         console.log(`
 ╔═════════════════════════════════════════════════════╗
 ║                                                     ║
-║   Bienvenido al Handler /-/ por dewstouh#1088 /-/   ║
+║   Bienvenido al Handler /-/ por Fluid dev#3147 /-/  ║
 ║                                                     ║
 ╚═════════════════════════════════════════════════════╝`.yellow)
         let comandos = 0;
@@ -28,9 +28,3 @@ module.exports = (client) => {
     }
 }
 
-/*
-╔═════════════════════════════════════════════════════╗
-║    || - || Desarrollado por dewstouh#1088 || - ||   ║
-║    ----------| discord.gg/MBPsvcphGf |----------    ║
-╚═════════════════════════════════════════════════════╝
-*/
